@@ -2,7 +2,7 @@
 ### Data has been colected rom Citi Bike webpage 
 
 ##Tableau Public Link
-###[Title](https://public.tableau.com/app/profile/maura.ellsworth/viz/tableauprojectfinal_16908242813490/BikeData?publish=yes)
+###[CLICK HERE](https://public.tableau.com/app/profile/maura.ellsworth/viz/tableauprojectfinal_16908242813490/BikeData?publish=yes)
 
 ![Alt text](image.png)
 ### There were 895,485 bike trips taken in Jersey city in 2022. August saw the highest amount of rides with 115,229 ride and January saw the lowest amount with just 26,776. There were more rides taken in the summer months than in the winter mnths. 
